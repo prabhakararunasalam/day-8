@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
+
 const Home = ({setId}) => {
     const [data, setData] = useState([]);
   const [deleteData, setDeleteData] = useState([]);
