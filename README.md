@@ -25,3 +25,6 @@ This is a simple React-based Product Management application that allows users to
 - Home Page: Displays a list of all products. You can edit or delete each product.
 - Create Product Page: Use the form to create a new product. Fields include product name, price, description, and image URL.
 - Edit Product Page: After selecting a product from the Home Page, you can edit its information and update it.
+
+## Notes
+- The application is designed to be simple and easy to understand, ideal for learning and small projects.
